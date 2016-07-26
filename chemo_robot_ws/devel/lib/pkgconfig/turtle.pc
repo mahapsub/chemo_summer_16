@@ -1,0 +1,8 @@
+prefix=/users/smahapat/chemo_robot_ws/devel
+
+Name: turtle
+Description: Description of turtle
+Version: 0.0.0
+Cflags: -I/users/smahapat/chemo_robot_ws/devel/include
+Libs: -L/users/smahapat/chemo_robot_ws/devel/lib 
+Requires: 

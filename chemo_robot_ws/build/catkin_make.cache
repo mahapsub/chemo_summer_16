@@ -1,0 +1,2 @@
+turtle:zumo
+-DCATKIN_DEVEL_PREFIX=/users/smahapat/chemo_robot_ws/devel -DCMAKE_INSTALL_PREFIX=/users/smahapat/chemo_robot_ws/install -G Unix Makefiles
